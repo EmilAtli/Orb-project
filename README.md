@@ -9,3 +9,7 @@
 ## Assessing the Performance
 
 - Includes additional Jupyter notebooks used to measure and analyze the model's performance
+
+## Running_the_Model
+
+- includes files to generate the samples, the new dataset and scripts used to run the model on Elja
