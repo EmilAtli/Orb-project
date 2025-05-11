@@ -12,4 +12,4 @@
 
 ## Running_the_Model
 
-- includes files to generate the samples, the new dataset and scripts used to run the model on Elja
+- includes files to generate the samples, and generate the new dataset and scripts used to run the model on Elja
